@@ -86,7 +86,7 @@ fraud-detection-system/
 
 1. Navigate to backend directory:
    ```bash
-   cd backend
+   cd fraud_detection_transactions/backend
    ```
 
 2. Create and activate virtual environment:
